@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "customerSignUp",
+    "SubjectPart": "Welcome to DealerMethods",
+    "HtmlPart": "<h3>Hello {{name}},</h3><p>Welcome to Dealer Methods.</p>",
+    "TextPart": "Dear {{name}},\r\nWelcome to Dealer Methods."
+  }
+}

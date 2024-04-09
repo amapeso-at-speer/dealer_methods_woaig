@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.env
+.vscode
+combined.log
+error.log
+logs
+config/contracts/
+config/invoice/
+.idea*
+*.log
